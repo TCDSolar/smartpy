@@ -10,7 +10,7 @@ name = "smart"
 description = "SolarMonitor Active Regtion Tracking (SMART)"
 requires-python = ">=3.9"
 readme = { file = "README.rst", content-type = "text/x-rst" }
-license = { file = "licenses/LICENSE.rst", content-type = "text/plain" }
+license = { file = "licenses/LICENSE.rst" }
 dependencies = []
 dynamic = ["version"]
 
